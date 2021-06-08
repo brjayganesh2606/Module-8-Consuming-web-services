@@ -26,3 +26,16 @@ Module-8-Consuming-web-services
 
 4)Walkthrough 8-4: Transform data from multiple services to a canonical format
 
+American ,
+
+![image](https://user-images.githubusercontent.com/70746268/121181934-2c53f180-c880-11eb-8ffb-e3eaf4d7dbc1.png)
+
+united,
+
+![image](https://user-images.githubusercontent.com/70746268/121183979-40005780-c882-11eb-9bbc-a66adc0ac7c7.png)
+
+delta,
+
+![image](https://user-images.githubusercontent.com/70746268/121184114-632b0700-c882-11eb-8700-4c28959ccb26.png)
+
+
